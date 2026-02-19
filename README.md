@@ -23,4 +23,7 @@ In this project, I performed the following tasks:
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone [Your-GitHub-Repo-Link]
+   git clone https://github.com/purinutchrr/IBM-Python-Project-for-Data-Science.git
+
+---
+**Author:** Purinut Chairungrueang  
